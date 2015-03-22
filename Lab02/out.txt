@@ -1,0 +1,5 @@
+File: F3.txt Threads: 10  Time: 1417 milliseconds
+File: F3.txt Threads: 1  Time: 5634 milliseconds
+File: F3.txt Threads: 8  Time: 1800 milliseconds
+File: F3.txt Threads: 816  Time: 636 milliseconds
+File: F3.txt Threads: 10000  Time: 1044 milliseconds

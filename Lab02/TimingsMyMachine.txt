@@ -1,0 +1,16 @@
+File: f3.txt Threads: 1  Time: 5529 milliseconds
+File: f3.txt Threads: 2  Time: 2802 milliseconds
+File: f3.txt Threads: 3  Time: 1974 milliseconds
+File: f3.txt Threads: 4  Time: 1643 milliseconds
+File: f3.txt Threads: 8  Time: 1369 milliseconds
+File: f3.txt Threads: 16  Time: 1629 milliseconds
+File: f2.txt Threads: 1  Time: 200 milliseconds
+File: f2.txt Threads: 2  Time: 160 milliseconds
+File: f2.txt Threads: 4  Time: 186 milliseconds
+File: f2.txt Threads: 8  Time: 188 milliseconds
+File: f2.txt Threads: 16  Time: 186 milliseconds
+File: f1.txt Threads: 1  Time: 170 milliseconds
+File: f1.txt Threads: 2  Time: 158 milliseconds
+File: f1.txt Threads: 4  Time: 169 milliseconds
+File: f1.txt Threads: 8  Time: 172 milliseconds
+File: f1.txt Threads: 16  Time: 172 milliseconds

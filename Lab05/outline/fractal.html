@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<script src='fractal.js'></script>
+
+<style>
+body {
+    background: black;
+}
+</style>
+
+</head>
+<body onload='main()'>
+<canvas style='float:left' id='cvs' width=512 height=512></canvas>
+        
+<div style='float: right; 
+background: white; box-shadow: 0em 0em 0.4em 0.4em rgba(255,255,255,1);
+margin-top: 1em;
+margin-right: 1em;'>
+Iterations: <input id='maxiter' value=200 size=5 onchange='compute()'>
+</div>
+</body>
+</html>
